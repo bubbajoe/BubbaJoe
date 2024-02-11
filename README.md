@@ -1,4 +1,1 @@
-- 🔭 I’m currently working on too many things!
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate!
-- 📫 How to reach me: [check website](https://bubbajoe.dev)
+Hello, please check out my personal website: [bubbajoe.dev](https://bubbajoe.dev)
